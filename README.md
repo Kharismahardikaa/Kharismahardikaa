@@ -5,7 +5,9 @@
 
 
 -->
-Here are some ideas to get you started:
+
+![Mahardika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kharismahardikaa&show_icons=true&theme=dracula)
+
 
 - 🔭 I’m currently working on Helpul Studio and Mulia University
 - 🌱 I’m currently learning Node JS, Flutter, Python, and Machine Learning
@@ -15,5 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: muhammadkharismam@gmail.com
 - 😄 Pronouns: Hahahihihu
 - ⚡ Fun fact: I Like reading book, but I don't wanna to have book
-
-[![Mahardika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kharismahardikaa)](https://github.com/Kharismahardikaa/github-readme-stats)
