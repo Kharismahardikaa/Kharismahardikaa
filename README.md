@@ -7,8 +7,6 @@
 -->
 
 ![Mahardika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kharismahardikaa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kharismahardikaa&langs_count=8)](https://github.com/Kharismahardikaa/github-readme-stats)
-
 
 
 - 🔭 I’m currently working on Helpul Studio and Mulia University
