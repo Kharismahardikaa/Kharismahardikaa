@@ -14,4 +14,6 @@
 - 📫 How to reach me: muhammadkharismam@gmail.com -->
 - 😄 Pronouns: Hahahihihu
 <!-- - ⚡ Fun fact: I Like reading book, but I don't wanna to have book -->
-![Mahardika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kharismahardikaa&show_icons=true&theme=dracula)
+<a href="https://github.com/Kharismahardikaa/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kharismahardikaa&repo=github-readme-stats" />
+</a>
