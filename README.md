@@ -5,15 +5,17 @@
 
 
 -->
-
-<!-- - 🔭 I’m currently working on Helpul Studio and Mulia University
-- 🌱 I’m currently learning Node JS, Flutter, Python, and Machine Learning
-- 👯 I’m looking to collaborate on Application Development
-- 🤔 I’m looking for help with learning path for study
-- 💬 Ask me about code, design, and bussiness
-- 📫 How to reach me: muhammadkharismam@gmail.com -->
-- 😄 Pronouns: Hahahihihu
-<!-- - ⚡ Fun fact: I Like reading book, but I don't wanna to have book -->
-<a href="https://github.com/Kharismahardikaa/Kharismahardikaa">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kharismahardikaa&repo=Kharismahardikaa" />
-</a>
+<div class="grid">
+  <div id="item-1">
+    <ul>
+      <li>🔭 I’m currently working on Helpul Studio and Mulia University</li>
+      <li>🌱 I’m currently learning Node JS, Flutter, Python,and Machine Learning</li>
+      <li>👯 I’m looking to collaborate on Application Development</li>
+      <li>🤔 I’m looking for help with learning path for study</li>
+      <li>💬 Ask me about code, design, and bussiness</li>
+      <li>📫 How to reach me: muhammadkharismam@gmail.com</li>
+      <li>⚡ Fun fact: I Like reading book, but I don't wanna to have book</li>
+    </ul>
+  </div>
+  </div>
+</div>
