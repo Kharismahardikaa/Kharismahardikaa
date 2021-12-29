@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Hahahihihu
 - ⚡ Fun fact: I Like reading book, but I don't wanna to have book
 
-https://github-readme-stats.vercel.app/api?Kharismahardikaa
+[![Mahardika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kharismahardikaa)](https://github.com/Kharismahardikaa/github-readme-stats)
