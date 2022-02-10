@@ -9,7 +9,7 @@
   <div id="item-1">
     <ul>
       <li>🔭 I’m currently working on Mulia University</li>
-      <li>🌱 I’m currently learning Node JS, Flutter, Typescript</li>
+      <li>🌱 I’m currently learning Flutter</li>
       <li>👯 I’m looking to collaborate on Application Development</li>
       <li>🤔 I’m looking for help with learning path for study</li>
       <li>💬 Ask me about code, design, and bussiness</li>
