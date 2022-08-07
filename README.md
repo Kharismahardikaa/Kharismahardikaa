@@ -13,7 +13,7 @@
       <li>🤔 I’m looking for help with learning path for study</li>
       <li>💬 Ask me about code, design, and bussiness</li>
       <li>📫 How to reach me: muhammadkharismam@gmail.com</li>
-      <li>⚡ Fun fact: I Like reading book, but I don't wanna to have book</li>
+      <li>⚡ Fun fact: Nothing</li>
     </ul>
   </div>
   </div>
