@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Mahardika</h1><br><h3 align="center">A Frontend Developer from Indonesia</h3><br><br>- 🔭 I’m currently working on **Xetia and Mulia University**<br><br>- 🌱 I’m currently learning **Programming**<br><br>- 📝 I regularly write articles on [https://medium.com/@muhammadkharismam](https://medium.com/@muhammadkharismam)<br><br>- 💬 Ask me about **Programming**<br><br>- 📫 How to reach me **muhammadkharismam@gmail.com**<br><br>
-
+<!-- <h1 align="center">Hi 👋, I'm Mahardika</h1><br><h3 align="center">A Frontend Developer from Indonesia</h3><br><br>- 🔭 I’m currently working on **Xetia and Mulia University**<br><br>- 🌱 I’m currently learning **Programming**<br><br>- 📝 I regularly write articles on [https://medium.com/@muhammadkharismam](https://medium.com/@muhammadkharismam)<br><br>- 💬 Ask me about **Programming**<br><br>- 📫 How to reach me **muhammadkharismam@gmail.com**<br><br>
+-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dika.tsx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-kharisma-mahardika-aa987b189/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammadkharismam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Corazon_ID) 
