@@ -7,8 +7,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=akidarhama&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akidarhama&theme=blueberry&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Quote
+<h4><i>A king never hesitates, a king never gives up, a king never relies, and a king never gives up!</i></h4>
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
